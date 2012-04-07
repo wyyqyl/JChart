@@ -1,2 +1,3 @@
-I was using JFreeChart Library to draw the diagram.
-http://www.jfree.org/jfreechart/
+I was using JFreeChart Library to draw the diagram and commapi library to receive data from com port.
+JFreeChart: http://www.jfree.org/jfreechart/
+commapi: I can't find the website now...
